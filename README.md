@@ -43,7 +43,7 @@ This project employs Python for analyzing a movies dataset to identify correlati
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/movies-correlation-analysis.git
+git clone https://github.com/Shivendra_Dwivedi/movies-correlation-analysis.git
 cd movies-correlation-analysis
 ```
 
